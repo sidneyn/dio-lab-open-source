@@ -47,6 +47,8 @@
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
 ##### Exemplo commit
+git commit -m "🎉 Inicinado projeto"
+git commit -m "✨ featInicinado projeto"
 
 `feat: adicionado novo arquivo`
 
